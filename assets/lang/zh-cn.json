@@ -244,7 +244,7 @@
     "addon.messages.searchnomessagesfound": "未找到消息",
     "addon.messages.searchnononcontactsfound": "未找到非联系人",
     "addon.messages.selfconversation": "个人空间",
-    "addon.messages.selfconversationdefaultmessage": "保存草稿信息，链接，笔记等已备后续访问。",
+    "addon.messages.selfconversationdefaultmessage": "保存草稿信息，链接，笔记等以备后续访问。",
     "addon.messages.sendcontactrequest": "发送联系人请求",
     "addon.messages.showdeletemessages": "显示删除消息",
     "addon.messages.type_blocked": "已屏蔽",
